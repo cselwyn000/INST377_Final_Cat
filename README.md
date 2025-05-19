@@ -1,1 +1,20 @@
-# INST377_Final_Cat
+# Cat Voting Simulator
+### Find my app deployment here: https://cat-voting-simualtor.vercel.app/
+
+## Description
+### This cat voting website is a full-stack web app that lets users view and vote on random cate images. It was built with Node.js, Express, and Supabase, then deployed using Vercel. This application demonstrates all function of integration between frontend and backend services.
+
+## Target Browsers
+### Desktop: Chrome, Firefox, Safari, Edge
+### Mobile: iOS, Android
+
+## Developer manual is in [Manual](https://github.com/cselwyn000/INST377_Final_Cat/tree/main/docs)
+
+
+
+
+
+
+
+
+
