@@ -8,7 +8,7 @@
 ### Desktop: Chrome, Firefox, Safari, Edge
 ### Mobile: iOS, Android
 
-## Developer manual is in [Manual](https://github.com/cselwyn000/INST377_Final_Cat/tree/main/docs)
+## Developer manual is in [Manual](https://github.com/cselwyn000/INST377_Final_Cat/blob/main/docs/Developer%20Manual.md)
 
 
 
